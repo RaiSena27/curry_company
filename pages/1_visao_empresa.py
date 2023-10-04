@@ -174,7 +174,7 @@ def clean_code(df1):
 # --------------------------
 # Import Dataset
 # --------------------------
-df = pd.read_csv(r'C:\Users\RAÍ SENA\OneDrive\rai\repos\ftc\ciclo_5\train.csv')
+df = pd.read_csv(r'https://github.com/RaiSena27/curry_company/blob/main/dataset/train.csv')
 
 # --------------------------
 # Limpando os Dados
