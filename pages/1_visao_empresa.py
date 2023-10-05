@@ -174,7 +174,7 @@ def clean_code(df1):
 # --------------------------
 # Import Dataset
 # --------------------------
-df = pd.read_csv('https://github.com/RaiSena27/curry_company/blob/main/dataset/train.csv')
+df = pd.read_csv('train.csv')
 
 # --------------------------
 # Limpando os Dados
