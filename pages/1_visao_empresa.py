@@ -12,6 +12,8 @@ import folium
 
 from streamlit_folium import folium_static
 
+st.set_page_config(page_title='Visão Empresa', page_icon='📈', layout='wide')
+
 # -----------------------------------------------------
 # Funções
 # -----------------------------------------------------
